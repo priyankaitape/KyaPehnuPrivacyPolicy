@@ -1,6 +1,6 @@
 # Privacy Policy for Kya Pehnu — AI Outfit Planner
   
-  **Last updated:** 19 May 2026
+  **Last updated:** 20 May 2026
 
   Kya Pehnu ("we," "our," or "us") respects your privacy. This Privacy Policy
   explains what data the app collects, how it is used, who it is shared with,
